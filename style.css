@@ -1,0 +1,54 @@
+html {
+  padding: 0;
+}
+ * {
+  padding: 1rem;
+ }
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  padding: 0;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.get-in-btn {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  border-radius: 1.5rem;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.text-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.bg-color-green {
+  background-color: #d4e9e2;
+}
+
+.cup-div {
+  align-items: center;
+}
+
+.img {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  text-align: center;
+}
